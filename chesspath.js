@@ -5,7 +5,7 @@
  * @link https://instagram.com/webcodehindi
  * @link https://github.com/webcodehindi/chesspath
  */
- class WTChessPath {
+ class ChessPath {
     constructor(G_PIECE) {
         if (typeof G_PIECE != 'function') throw Error("First parameter should be a function");
         this._G_PIECE = G_PIECE; // Hold function provided by you
