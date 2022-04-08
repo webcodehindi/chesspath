@@ -1,5 +1,5 @@
 /**
- * WTChessPath - Get possible moves in chess board
+ * ChessPath - Get possible moves in chess board
  * 
  * @author Anuj Kumar <anujkumar00p@gmail.com>
  * @link https://instagram.com/webcodehindi
